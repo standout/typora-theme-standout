@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/YiNNx/typora-theme-lapis/blob/master/README.md">English</a> / 简体中文</p>
+<p align="right"><a href="https://github.com/standout/typora-theme-standout/blob/master/README.md">English</a> / 简体中文</p>
 <h1 align="center">Typora Theme - Lapis</h1>
 <p align="center">🖊️ 一款以蓝色为主色调的 Typora 主题</p>
 <div align="center">
@@ -51,16 +51,16 @@
 
 ## 安装
 
-1. Clone 此仓库，或从 [Latest Release](https://github.com/YiNNx/typora-theme-lapis/releases/latest) 中下载`typora-theme-lapis.zip`并解压。
+1. Clone 此仓库，或从 [Latest Release](https://github.com/standout/typora-theme-standout/releases/latest) 中下载`typora-theme-standout.zip`并解压。
 2. 在 Typora 菜单中选择 偏好设置 (Preferences) -> 找到外观部分，点击“打开主题文件夹”按钮。
-3. 将 `lapis.css` & `lapis-dark.css` 文件和 `lapis` 文件夹复制到 Typora 的主题文件夹中。
+3. 将 `standout.css` & `standout-dark.css` 文件和 `standout` 文件夹复制到 Typora 的主题文件夹中。
 4. 重启 Typora，然后从主题列表中选择 **Lapis** / **Lapis Dark**。
 
 ## 贡献
 
 这款主题最初是在 Linux 版本下编写和使用，其他平台上有概率出现一些意想不到的问题；同时由于主题样式大部分是基于作者的日常使用而编写，可能会有许多未发现的样式 bug。
 
-如果你遇到问题或有任何建议, 想法或贡献，欢迎直接提交 [Issues](https://github.com/yinnx/typora-theme-lapis/issues) & [Pull Request](https://github.com/YiNNx/typora-theme-lapis/pulls)。感谢你的反馈和贡献！
+如果你遇到问题或有任何建议, 想法或贡献，欢迎直接提交 [Issues](https://github.com/standout/typora-theme-standout/issues) & [Pull Request](https://github.com/standout/typora-theme-standout/pulls)。感谢你的反馈和贡献！
 
 ## 致谢
 

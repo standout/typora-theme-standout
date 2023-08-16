@@ -1,6 +1,6 @@
 /* 
  *     Typora Theme - Lapis    /    Author - YiNN 
- *     https://github.com/YiNNx/typora-theme-lapis
+ *     https://github.com/standout/typora-theme-standout
  */
 
 :root {
@@ -47,22 +47,22 @@
 
 @font-face {
     font-family: "Cantarell";
-    src: url('lapis/Cantarell-VF-fixed.otf');
+    src: url('standout/Cantarell-VF-fixed.otf');
 }
 
 @font-face {
     font-family: "JetBrainsMono";
-    src: url('lapis/JetBrainsMono-Regular.ttf');
+    src: url('standout/JetBrainsMono-Regular.ttf');
 }
 
 @font-face {
     font-family: "SourceHanSerifCN";
-    src: url('lapis/SourceHanSerifCN-Medium.otf');
+    src: url('standout/SourceHanSerifCN-Medium.otf');
 }
 
 @font-face {
     font-family: "SourceHanSerifCN";
-    src: url('lapis/SourceHanSerifCN-Bold.otf');
+    src: url('standout/SourceHanSerifCN-Bold.otf');
     font-weight: bold;
 }
 

@@ -1,6 +1,6 @@
 <p align="right">
 	English / 
-	<a href="https://github.com/YiNNx/typora-theme-lapis/blob/master/README-CN.md">
+	<a href="https://github.com/standout/typora-theme-standout/blob/master/README-CN.md">
     简体中文
 	</a>
 </p>
@@ -11,8 +11,8 @@
     🖊️ A clean and fresh Typora theme in blue tones
 </p>
 <div align="center">
-      <img alt="Releases Downloads" src="https://img.shields.io/github/downloads/YiNNx/typora-theme-lapis/total?style=for-the-badge&color=32b0d3">  
-      <img alt="Release Version" src="https://img.shields.io/github/v/release/YiNNx/typora-theme-lapis?style=for-the-badge&color=ca5eb4"></div>
+      <img alt="Releases Downloads" src="https://img.shields.io/github/downloads/standout/typora-theme-standout/total?style=for-the-badge&color=32b0d3">  
+      <img alt="Release Version" src="https://img.shields.io/github/v/release/standout/typora-theme-standout?style=for-the-badge&color=ca5eb4"></div>
 <div align="center">
 	<div>
 		<img src="imgs/2.png" width="40%" />
@@ -51,16 +51,16 @@ Also includes styles like YAML Front Matter, Math Script, TOC, etc.
 
 ## Installation
 
-1. Clone this repository or download `typora-theme-lapis.zip` from [Latest Release](https://github.com/YiNNx/typora-theme-lapis/releases/latest).
+1. Clone this repository or download `typora-theme-standout.zip` from [Latest Release](https://github.com/standout/typora-theme-standout/releases/latest).
 2. In Typora, open "Preferences" (`File` > `Preferences`). And then switch to the "Appearance" tab and click the "Open Theme Folder" button.
-3. Copy the `lapis.css` & `lapis-dark.css` files and the `lapis` folder into Typora's theme folder.
+3. Copy the `standout.css` & `standout-dark.css` files and the `standout` folder into Typora's theme folder.
 4. Restart Typora and select the **Lapis** / **Lapis Dark** theme from the theme menu.
 
 ## Contributing
 
 As developed on a Linux platform, this theme may have some unexpected problems on other platforms.
 
-If you have any issues or suggestions, welcome to submit [Issues](https://github.com/YiNNx/typora-theme-lapis/issues). For any style fixing or new feature, welcome to submit [Pull Requests](https://github.com/YiNNx/typora-theme-lapis/pulls). Thank you for your feedback and contributions!
+If you have any issues or suggestions, welcome to submit [Issues](https://github.com/standout/typora-theme-standout/issues). For any style fixing or new feature, welcome to submit [Pull Requests](https://github.com/standout/typora-theme-standout/pulls). Thank you for your feedback and contributions!
 
 ## Credits
 

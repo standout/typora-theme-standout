@@ -1,9 +1,9 @@
 /* 
  *   Typora Theme - Lapis - Dark Version / Author - YiNN 
- *   https://github.com/YiNNx/typora-theme-lapis
+ *   https://github.com/standout/typora-theme-standout
  */
 
-@import "lapis.css";
+@import "standout.css";
 
 :root {
     --text-color: #e4e4e4e3;
