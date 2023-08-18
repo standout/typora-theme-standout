@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+THEME_DIR="$HOME/Library/Application Support/abnerworks.Typora/themes"
+
+echo "Installing theme to $THEME_DIR"
+cp standout.css "$THEME_DIR/"
+cp standout-dark.css "$THEME_DIR/"
+echo "Installing assets to $THEME_DIR/standout"
+mkdir -p "$THEME_DIR/standout"
+cp -r standout "$THEME_DIR/standout"

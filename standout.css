@@ -4,9 +4,9 @@
  */
 
 :root {
-    --text-color: #40464f;
+    --text-color: #1D1C1C;
     /* Text */
-    --primary-color: #4870ac;
+    --primary-color: #E42337;
     /* Primary Color */
     --bg-color: #ffffff;
     --side-bar-bg-color: var(--bg-color);
@@ -18,9 +18,9 @@
     /* Highlight */
     --header-span-color: var(--primary-color);
     /* h2 Span Color */
-    --block-bg-color: #f6f8fa;
+    --block-bg-color: #F8F2F3;
     /* Block Background */
-    --img-shadow-color: #d2dff4;
+    --img-shadow-color: #D9B8BC;
 
     /* Overwrite of Typora Base Color */
     --search-hit-bg-color: var(--select-text-bg-color);
@@ -41,29 +41,14 @@
     }
 }
 
-/*
- * Font-face for Cantarell, Source Han Serif CN and JetBrains Mono
- */
-
-@font-face {
-    font-family: "Cantarell";
-    src: url('standout/Cantarell-VF-fixed.otf');
-}
-
 @font-face {
     font-family: "JetBrainsMono";
     src: url('standout/JetBrainsMono-Regular.ttf');
 }
 
 @font-face {
-    font-family: "SourceHanSerifCN";
-    src: url('standout/SourceHanSerifCN-Medium.otf');
-}
-
-@font-face {
-    font-family: "SourceHanSerifCN";
-    src: url('standout/SourceHanSerifCN-Bold.otf');
-    font-weight: bold;
+  font-family: "Outfit";
+  src: url('standout/Outfit-VariableFont_wght.ttf');
 }
 
 /*
@@ -81,7 +66,7 @@
     word-wrap: break-word;
     text-align: justify;
 
-    font-family: 'Cantarell', 'SourceHanSerifCN', 'JetBrainsMono';
+    font-family: 'Outfit', 'JetBrainsMono';
     margin-bottom: 20rem;
 }
 
@@ -128,16 +113,11 @@
  * TOC
  */
 
-.md-toc-content {
-    font-family: 'SourceHanSerifCN';
-}
-
 .md-toc-content:empty:before {
     color: var(--primary-color);
 }
 
 #write div.md-toc-tooltip {
-    font-family: 'SourceHanSerifCN';
     color: var(--primary-color);
     position: static;
     margin-top: 10px;
@@ -202,7 +182,6 @@ mark {
 #write h4,
 #write h5,
 #write h6 {
-    font-family: 'SourceHanSerifCN';
     padding: 0px;
     color: var(--primary-color);
 }
@@ -414,7 +393,6 @@ li.md-list-item {
 }
 
 #write table tr th {
-    font-family: SourceHanSerifCN;
     text-align: center;
     min-width: 10rem;
     font-weight: bold;
@@ -527,7 +505,7 @@ blockquote .task-list-item input::before {
  * Sidebar
  */
 #typora-sidebar {
-    font-family: 'Cantarell', 'SourceHanSerifCN';
+    font-family: 'Outfit';
     height: 100%;
     color: var(--text-color);
     font-size: 0.92rem;
