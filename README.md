@@ -1,14 +1,8 @@
-<p align="right">
-	English / 
-	<a href="https://github.com/standout/typora-theme-standout/blob/master/README-CN.md">
-    简体中文
-	</a>
-</p>
 <h1 align="center">
-    Typora Theme - Lapis
+    Typora Theme - Standout
 </h1>
 <p align="center">
-    🖊️ A clean and fresh Typora theme in blue tones
+    🖊️ A theme based on Standouts graphic profile 
 </p>
 <div align="center">
       <img alt="Releases Downloads" src="https://img.shields.io/github/downloads/standout/typora-theme-standout/total?style=for-the-badge&color=32b0d3">  
@@ -45,7 +39,6 @@ Also includes styles like YAML Front Matter, Math Script, TOC, etc.
 
 ## Features
 
-- Supports English & 简体中文 with fonts [Cantarell](https://fonts.google.com/specimen/Cantarell) and [思源宋体](https://source.typekit.com/source-han-serif/cn/).
 - Provides color schemes of code block inspired by VSCode's [Winter is Coming](https://vscodethemes.com/e/johnpapa.winteriscoming/winter-is-coming-light-no-italics), using the font [Jetbrains Mono](https://www.jetbrains.com/lp/mono/).
 - Both light and dark themes are available, with clean and rich Markdown styles.
 
@@ -54,11 +47,9 @@ Also includes styles like YAML Front Matter, Math Script, TOC, etc.
 1. Clone this repository or download `typora-theme-standout.zip` from [Latest Release](https://github.com/standout/typora-theme-standout/releases/latest).
 2. In Typora, open "Preferences" (`File` > `Preferences`). And then switch to the "Appearance" tab and click the "Open Theme Folder" button.
 3. Copy the `standout.css` & `standout-dark.css` files and the `standout` folder into Typora's theme folder.
-4. Restart Typora and select the **Lapis** / **Lapis Dark** theme from the theme menu.
+4. Restart Typora and select the **Standout** / **Standout Dark** theme from the theme menu.
 
 ## Contributing
-
-As developed on a Linux platform, this theme may have some unexpected problems on other platforms.
 
 If you have any issues or suggestions, welcome to submit [Issues](https://github.com/standout/typora-theme-standout/issues). For any style fixing or new feature, welcome to submit [Pull Requests](https://github.com/standout/typora-theme-standout/pulls). Thank you for your feedback and contributions!
 
@@ -68,9 +59,11 @@ If you have any issues or suggestions, welcome to submit [Issues](https://github
 
 - The code color scheme was inspired by the VSCode theme [Winter is Coming](https://vscodethemes.com/e/johnpapa.winteriscoming/winter-is-coming-light-no-italics)
 
+- Standout based their version on [YiNNx](https://github.com/YiNNx)'s [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis).
+
 ## License
 
-The Lapis Typora theme is released under the MIT License. You are free to use, modify, and distribute this theme.
+The Standout theme is released under the MIT License. You are free to use, modify, and distribute this theme.
 
 ---
 
